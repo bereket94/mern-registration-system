@@ -17,12 +17,12 @@ A complete, full-stack user authentication and registration system built using t
 
 Based on the repository layout, the project is organized as follows:
 
-├── assets/                      # Images, design mockups, or static resources <br>
-├── backend/                     # Node.js / Express.js server, MongoDB models, and API routes<br>
-├── .gitignore                   # Specifying intentionally untracked files to ignore<br>
-├── App.js                       # Main React entry component handling routing/views<br>
-├── Login.js                     # React component for user login and validation<br>
-├── home.js                      # Post-authentication home/dashboard view component<br>
-├── index.js                     # Frontend application root entry point<br>
-├── package.json                 # Frontend dependencies and configuration scripts<br>
-└── package-lock.json            # Locked versions of frontend dependencies<br>
+├── assets/                      -> Images, design mockups, or static resources <br>
+├── backend/                     -> Node.js / Express.js server, MongoDB models, and API routes<br>
+├── .gitignore                   -> Specifying intentionally untracked files to ignore<br>
+├── App.js                       -> Main React entry component handling routing/views<br>
+├── Login.js                     -> React component for user login and validation<br>
+├── home.js                      -> Post-authentication home/dashboard view component<br>
+├── index.js                     -> Frontend application root entry point<br>
+├── package.json                 -> Frontend dependencies and configuration scripts<br>
+└── package-lock.json            -> Locked versions of frontend dependencies<br>
